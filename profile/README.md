@@ -28,7 +28,7 @@
 - (4) 매 주 목표의 문제 수를 풀이 후 코드 저장(commit) & 원격 저장소 저장(push)를 합니다.
 - (5) github에서 PR(pull request)를 작성합니다.
   - PR 목적지는 스터디 대상 프로젝트의 "본인의 깃헙 아이디" branch로 한다.
-  - PR 출발지는 fork한 자신의 저장소의 3번에서 생성한 branch로 한다.
+  - PR 출발지는 fork한 자신의 저장소의 (3)번에서 생성한 branch로 한다.
   - ex) crewcrew-coding-test-study:ieunune <- ieunune:ieunune/week-1
 - (6) 각 주차별 풀이 설명을 완료한 후 PR들을 merge합니다.
 - (7) 이후, 브랜치 이름을 변경하며 동일한 방식(1-6)으로 코드를 관리하며 스터디를 완료합니다.
