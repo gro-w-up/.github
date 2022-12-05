@@ -1,7 +1,40 @@
 # 🌱 [크루크루] 코딩 테스트 스터디
 
-🥇 두달간 집중해서 개인의 성장에 집중합시다!
+🥇 두 달간 집중해서 개인의 성장에 집중합시다!
 
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/ieunune">
+        <img src="" width="100px;" alt=""/>
+        <br />
+        <sub>♟ 박은우(ieunune)</sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/phk9436">
+        <img src="" width="100px;" alt=""/>
+        <br />
+        <sub>박한결(phk9436)</sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Slowth-KIM">
+        <img src="" width="100px;" alt=""/>
+        <br />
+        <sub>김도희(Slowth-KIM)</sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/choikangheon">
+        <img src="" width="100px;" alt=""/>
+        <br />
+        <sub>최강헌(choikangheon)</sub>
+      </a>
+    </td>
+  </tr>
+</table>
+  
 ## 🔥 방향
 - 목표 : 프로그래머스 또는 백준 Level 3 수준
 - 문제 수 : 
