@@ -1,4 +1,8 @@
-# 🥇 [크루크루] 코딩 테스트 스터디
+<br/>
+<br/>
+<p align="center" style="font-size:36px" ><b>🥇 [크루크루] 코딩 테스트 스터디</b></p>
+<br/>
+<br/>  
 
 ## 👨🏻‍💻스터디원👩🏻‍💻 
 <table>
