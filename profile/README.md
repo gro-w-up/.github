@@ -1,6 +1,5 @@
 # 🥇 [크루크루] 코딩 테스트 스터디
 
-
 ## 👨🏻‍💻스터디원👩🏻‍💻 
 <table>
   <tr>
@@ -8,7 +7,7 @@
       <a href="https://github.com/ieunune">
         <img src="https://avatars.githubusercontent.com/u/50124623?v=4" width="100px;" alt=""/>
         <br />
-        <sub>♟ 박은우(ieunune)</sub>
+        <sub>♟박은우(ieunune)</sub>
       </a>
     </td>
     <td align="center">
@@ -37,23 +36,22 @@
 
 
 ### 🔥 방향
-- 목표 : 프로그래머스 또는 백준 Level 3 수준
-- 문제 수 : 
-  + Level 1 : 5문제
-  + Level 2 : 3문제
-  + Level 3 : 2문제
-- 기간 : 매 주
+- 목표 : 프로그래머스 [스킬체크] '남다른 실력자' 수준 (Level 3)
+- 문제 : 
+  + [코딩테스트-고득점-Kit]
+  + [월간코드챌린지]
+  + [카카오기출문제]
 - 사용할 언어
   + Python
 
-### 🔥 매주 수요일
+### ⌚ 매주 수요일
 - 코드리뷰
-  + 리뷰 담당자 없이 서로 리뷰합니다.
+  + 자유롭게 리뷰합니다.
     + A <- B, C, D OK
     + B <-> A, C, D OK
     + C <-> D OK
-  + 매 주 1회 풀이한 방법 설명을 위한 온라인 소통을 디스코드로 합니다.
-
+  + 매 주 1회 온라인으로 소통합니다. (디스코드)
+  + 문제 풀이를 위한 접근 방식이나 개념을 설명합니다.
 
 ### 🔥 벌금
   + 스터디 하는 분위기를 조성하기 위해 적극적인 참여를 유도하기 위해 벌금 제도를 시행합니다.
@@ -63,15 +61,58 @@
 ### 🔥 방식
 - (1) coding-test 프로젝트를 자신의 계정으로 fork합니다.
 - (2) fork한 repository를 개인 컴퓨터에 clone합니다.
-- (3) '깃허브 아이디 / 주차'로 브랜치를 생성합니다.
-- (4) 매 주 목표의 문제 수를 풀이 후 코드 저장(commit) & 원격 저장소 저장(push)를 합니다.
-- (5) github에서 PR(pull request)를 작성합니다.
+- (3) 매 주 목표의 문제 수를 풀이 후 코드 저장(commit) & 원격 저장소 저장(push)를 합니다.
+- (4) github에서 PR(pull request)를 작성합니다.
   - PR 목적지는 스터디 대상 프로젝트의 "본인의 깃헙 아이디" branch로 한다.
   - PR 출발지는 fork한 자신의 저장소의 (3)번에서 생성한 branch로 한다.
-  - ex) crewcrew-coding-test-study:ieunune <- ieunune:ieunune/week-1
-- (6) 각 주차별 풀이 설명을 완료한 후 PR들을 merge합니다.
-- (7) 이후, 브랜치 이름을 변경하며 동일한 방식(1-6)으로 코드를 관리하며 스터디를 완료합니다.
-  - ieunune/week-2
-  - ieunune/week-3
-  - ieunune/week-4
-  - ...
+  - ex) crewcrew-coding-test-study:ieunune <- ieunune:ieunune
+- (5) 커밋 메시지를 작성합니다. PR 규칙 및 Commet Message 규칙 참고
+- (6) PR들을 merge합니다.
+- (7) 이후, 각자 본인의 폴더에 Level별로 구분하여 동일한 방식(1-6)으로 코드를 관리하며 스터디를 완료합니다.
+  - ieunune/level1/박은우
+  - ieunune/level2/박은우
+  - ieunune/level3/박은우
+
+### 🔥 PR 규칙 및 Commit Message 규칙
+- Pull Request
+  + [Programmers-폴더명] 이름
+
+- Commit Message
+  + [Programmers-문제번호] 문제명
+
+### 📁 파일 및 폴더 구조
+```
+├─level1
+│  ├─김도희
+│  ├─박은우
+│  │  ├─월간코드챌린지
+│  │  ├─카카오기출문제
+│  │  └─코딩테스트 고득점 Kit
+│  │      ├─그래프
+│  │      ├─깊이너비우선탐색
+│  │      ├─동적계획법
+│  │      ├─스택큐
+│  │      ├─완전탐색
+│  │      ├─이분탐색
+│  │      ├─정렬
+│  │      ├─탐욕법(그리디)
+│  │      ├─해시
+│  │      └─힙
+│  ├─박한결
+│  └─최강헌
+├─level2
+│  ├─김도희
+│  ├─박은우
+│  ├─박한결
+│  └─최강헌
+└─level3
+    ├─김도희
+    ├─박은우
+    ├─박한결
+    └─최강헌
+```
+
+[스킬체크]:https://programmers.co.kr/skill_checks
+[코딩테스트-고득점-Kit]:https://school.programmers.co.kr/learn/challenges?tab=algorithm_practice_kit
+[월간코드챌린지]:https://school.programmers.co.kr/learn/challenges?order=recent&partIds=18952%2C21163%2C23708
+[카카오기출문제]:https://school.programmers.co.kr/learn/challenges?order=recent&page=1&partIds=31236%2C25448%2C20069%2C17214%2C12286%2C9317%2C22586%2C18498%2C17931%2C300%2C301
