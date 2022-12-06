@@ -35,7 +35,7 @@
 </table>
 
 
-### 🔥 방향
+### 🧭 방향
 - 목표 : 프로그래머스 [스킬체크] '남다른 실력자' 수준 (Level 3)
 - 문제 : 
   + [코딩테스트-고득점-Kit]
@@ -58,14 +58,14 @@
   + 해당 주차에 문제 풀이 목표를 달성하지 못한 경우 5천원
   + 만약 모여 진다면 이것으로 스터디가 모두 끝난 후 뒷풀이에 사용합니다.
 
-### 🔥 방식
+### 🤔 방식
 - (1) coding-test 프로젝트를 자신의 계정으로 fork합니다.
 - (2) fork한 repository를 개인 컴퓨터에 clone합니다.
 - (3) 매 주 목표의 문제 수를 풀이 후 코드 저장(commit) & 원격 저장소 저장(push)를 합니다.
 - (4) github에서 PR(pull request)를 작성합니다.
-  - PR 목적지는 스터디 대상 프로젝트의 "본인의 깃헙 아이디" branch로 한다.
-  - PR 출발지는 fork한 자신의 저장소의 (3)번에서 생성한 branch로 한다.
-  - ex) crewcrew-coding-test-study:ieunune <- ieunune:ieunune
+  + PR 목적지는 스터디 대상 프로젝트의 "본인의 깃헙 아이디" branch로 한다.
+  + PR 출발지는 fork한 자신의 저장소의 (3)번에서 생성한 branch로 한다.
+  + ex) crewcrew-coding-test-study:origin/master <- crewcrew-coding-test-study:pew
 - (5) 커밋 메시지를 작성합니다. PR 규칙 및 Commet Message 규칙 참고
 - (6) PR들을 merge합니다.
 - (7) 이후, 각자 본인의 폴더에 Level별로 구분하여 동일한 방식(1-6)으로 코드를 관리하며 스터디를 완료합니다.
@@ -73,12 +73,14 @@
   - ieunune/level2/박은우
   - ieunune/level3/박은우
 
-### 🔥 PR 규칙 및 Commit Message 규칙
+### 🤙🏻 PR 규칙 및 Commit Message 규칙
 - Pull Request
-  + [Programmers] 이름 폴더명
+  + [Programmers] 이름 폴더명 작업내용
+  + ex) [Programmers] 박은우 해시 PR테스트
 
 - Commit Message
   + [Programmers] 이름 문제명
+  + ex) [Programmers] 박은우 완주하지 못한 선수
 
 ### 📁 파일 및 폴더 구조
 ```
