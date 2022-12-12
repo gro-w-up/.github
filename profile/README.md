@@ -66,7 +66,7 @@
 - 4️⃣ github에서 PR(pull request)를 작성합니다.
   + PR 목적지는 스터디 대상 프로젝트의 "본인의 이름 이니셜" branch로 한다.
   + PR 출발지는 fork한 자신의 저장소의 3️⃣번에서 생성한 branch로 한다.
-  + ex) crewcrew-coding-test-study:origin/master <- crewcrew-coding-test-study:pew
+  + ex) crewcrew-coding-test-study:origin/pew <- crewcrew-coding-test-study:master
 - 5️⃣ 커밋 메시지를 작성합니다. PR 규칙 및 Commet Message 규칙 참고
 - 6️⃣ PR들을 merge합니다.
 - 7️⃣ 이후, 각자 본인의 폴더에 Level별로 구분하여 동일한 방식(1-6)으로 코드를 관리하며 스터디를 완료합니다.
