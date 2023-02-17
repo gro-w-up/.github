@@ -8,28 +8,28 @@
       <a href="https://github.com/ieunune">
         <img src="https://avatars.githubusercontent.com/u/50124623?v=4" width="100px;" alt=""/>
         <br />
-        <sub>♟박은우(ieunune)</sub>
+        <sub>👑박은우(ieunune)</sub>
       </a>
     </td>
     <td align="center">
       <a href="https://github.com/phk9436">
         <img src="https://avatars.githubusercontent.com/u/47577714?v=4" width="100px;" alt=""/>
         <br />
-        <sub>박한결(phk9436)</sub>
+        <sub>♟박한결(phk9436)</sub>
       </a>
     </td>
     <td align="center">
       <a href="https://github.com/Slowth-KIM">
         <img src="https://avatars.githubusercontent.com/u/45562511?v=4" width="100px;" alt=""/>
         <br />
-        <sub>김도희(Slowth-KIM)</sub>
+        <sub>♟김도희(Slowth-KIM)</sub>
       </a>
     </td>
     <td align="center">
       <a href="https://github.com/choikangheon">
         <img src="https://avatars.githubusercontent.com/u/52992334?v=4" width="100px;" alt=""/>
         <br />
-        <sub>최강헌(choikangheon)</sub>
+        <sub>♟최강헌(choikangheon)</sub>
       </a>
     </td>
   </tr>
