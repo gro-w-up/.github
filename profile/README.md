@@ -1,9 +1,11 @@
 <h4 align="center">
-  <img og:image:height="200" width:"200" src="https://user-images.githubusercontent.com/50124623/229284477-9dad81b2-6175-4e5e-92ba-8a2da6ca89ca.png" />
+ <img src="https://user-images.githubusercontent.com/50124623/198869540-d6afaa80-615a-454e-b5d6-993419d55add.png"/>
 </h4>
-<h4 align="center">
-    🌱 Gro-w-up 스터디 동아리
-</h4>
+
+<p align="center">
+👋🏻 안녕하세요! <br>
+<b>Gro-w-up</b>은 스터디를 위한 그룹입니다.
+<p/>
 
 ### 👨🏻‍💻스터디원👩🏻‍💻 
 <table>
