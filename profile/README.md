@@ -7,46 +7,12 @@
 <b>Gro-w-up</b>은 스터디를 위한 그룹입니다.
 <p/>
 
-### 👨🏻‍💻스터디원👩🏻‍💻 
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/ieunune">
-        <img src="https://avatars.githubusercontent.com/u/50124623?v=4" width="100px;" alt=""/>
-        <br />
-        <sub>👑 박은우(ieunune)</sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/phk9436">
-        <img src="https://avatars.githubusercontent.com/u/47577714?v=4" width="100px;" alt=""/>
-        <br />
-        <sub>♟ 박한결(phk9436)</sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/Slowth-KIM">
-        <img src="https://avatars.githubusercontent.com/u/45562511?v=4" width="100px;" alt=""/>
-        <br />
-        <sub>♟ 김도희(Slowth-KIM)</sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/choikangheon">
-        <img src="https://avatars.githubusercontent.com/u/52992334?v=4" width="100px;" alt=""/>
-        <br />
-        <sub>♟ 최강헌(choikangheon)</sub>
-      </a>
-    </td>
-  </tr>
-</table>
-
 ---
 ### 🧭 방향
-- 목표 : 스터디 진행하는데 있어서 프로젝트 단위로 관리하기 위한 Organization
+- 목표 : 그룹 스터디 진행시 프로젝트를 효과적으로 관리하기 위한 코드 저장소를 운영한다.
 
 ---
-### ⌚ 매주 수요일 (22.12.07 ~ 23.02.14, 8주)
+### ⌚ 매주 N요일
 - 코드리뷰
   + 자유롭게 리뷰합니다.
     + A <- B, C, D OK
@@ -87,3 +53,38 @@
 - Commit Message
   + [Programmers] 이름 문제명
   + ex) [Programmers] 박은우 완주하지 못한 선수
+
+---
+### 👨🏻‍💻스터디원👩🏻‍💻 
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/ieunune">
+        <img src="https://avatars.githubusercontent.com/u/50124623?v=4" width="100px;" alt=""/>
+        <br />
+        <sub>👑 박은우(ieunune)</sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/phk9436">
+        <img src="https://avatars.githubusercontent.com/u/47577714?v=4" width="100px;" alt=""/>
+        <br />
+        <sub>♟ 박한결(phk9436)</sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Slowth-KIM">
+        <img src="https://avatars.githubusercontent.com/u/45562511?v=4" width="100px;" alt=""/>
+        <br />
+        <sub>♟ 김도희(Slowth-KIM)</sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/choikangheon">
+        <img src="https://avatars.githubusercontent.com/u/52992334?v=4" width="100px;" alt=""/>
+        <br />
+        <sub>♟ 최강헌(choikangheon)</sub>
+      </a>
+    </td>
+  </tr>
+</table>
