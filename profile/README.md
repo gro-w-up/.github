@@ -1,5 +1,9 @@
---- 
-# 🥇 [Gro-w-up] 스터디
+<h4 align="center">
+  <img og:image:height="200" width:"200" src="https://user-images.githubusercontent.com/50124623/229284477-9dad81b2-6175-4e5e-92ba-8a2da6ca89ca.png" />
+</h4>
+<h4 align="center">
+    🌱 Gro-w-up 스터디 동아리
+</h4>
 
 ### 👨🏻‍💻스터디원👩🏻‍💻 
 <table>
@@ -8,28 +12,28 @@
       <a href="https://github.com/ieunune">
         <img src="https://avatars.githubusercontent.com/u/50124623?v=4" width="100px;" alt=""/>
         <br />
-        <sub>👑박은우(ieunune)</sub>
+        <sub>👑 박은우(ieunune)</sub>
       </a>
     </td>
     <td align="center">
       <a href="https://github.com/phk9436">
         <img src="https://avatars.githubusercontent.com/u/47577714?v=4" width="100px;" alt=""/>
         <br />
-        <sub>♟박한결(phk9436)</sub>
+        <sub>♟ 박한결(phk9436)</sub>
       </a>
     </td>
     <td align="center">
       <a href="https://github.com/Slowth-KIM">
         <img src="https://avatars.githubusercontent.com/u/45562511?v=4" width="100px;" alt=""/>
         <br />
-        <sub>♟김도희(Slowth-KIM)</sub>
+        <sub>♟ 김도희(Slowth-KIM)</sub>
       </a>
     </td>
     <td align="center">
       <a href="https://github.com/choikangheon">
         <img src="https://avatars.githubusercontent.com/u/52992334?v=4" width="100px;" alt=""/>
         <br />
-        <sub>♟최강헌(choikangheon)</sub>
+        <sub>♟ 최강헌(choikangheon)</sub>
       </a>
     </td>
   </tr>
@@ -37,13 +41,7 @@
 
 ---
 ### 🧭 방향
-- 목표 : 프로그래머스 [스킬체크] '남다른 실력자' 수준 (Level 3)
-- 문제 : 
-  + [코딩테스트-고득점-Kit]
-  + [월간코드챌린지]
-  + [카카오기출문제]
-- 사용할 언어
-  + Python
+- 목표 : 스터디 진행하는데 있어서 프로젝트 단위로 관리하기 위한 Organization
 
 ---
 ### ⌚ 매주 수요일 (22.12.07 ~ 23.02.14, 8주)
@@ -87,30 +85,3 @@
 - Commit Message
   + [Programmers] 이름 문제명
   + ex) [Programmers] 박은우 완주하지 못한 선수
-
----
-### 📁 디렉토리 구조
-```
-├─김도희
-├─박은우
-│  ├─월간코드챌린지
-│  ├─카카오기출문제
-│  └─코딩테스트 고득점 Kit
-│      ├─그래프
-│      ├─깊이너비우선탐색
-│      ├─동적계획법
-│      ├─스택큐
-│      ├─완전탐색
-│      ├─이분탐색
-│      ├─정렬
-│      ├─탐욕법(그리디)
-│      ├─해시
-│      └─힙
-├─박한결
-└─최강헌
-```
-
-[스킬체크]:https://programmers.co.kr/skill_checks
-[코딩테스트-고득점-Kit]:https://school.programmers.co.kr/learn/challenges?tab=algorithm_practice_kit
-[월간코드챌린지]:https://school.programmers.co.kr/learn/challenges?order=recent&partIds=18952%2C21163%2C23708
-[카카오기출문제]:https://school.programmers.co.kr/learn/challenges?order=recent&page=1&partIds=31236%2C25448%2C20069%2C17214%2C12286%2C9317%2C22586%2C18498%2C17931%2C300%2C301
