@@ -8,8 +8,8 @@
 <p/>
 
 ---
-### 🌈 참여
-![KakaoTalk](https://img.shields.io/badge/OpenTalk-FCC624?style=flat-square&logo=Kakaotalk&logoColor=white)
+### ✋🏻 참여 방법
+[![KakaoTalk](https://img.shields.io/badge/OpenTalk-FCC624?style=flat-square&logo=Kakaotalk&logoColor=white)](https://open.kakao.com/o/g8qe1nkf)
 
 ---
 ### 🧭 방향
