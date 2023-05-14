@@ -8,6 +8,10 @@
 <p/>
 
 ---
+### 🌈 참여
+![KakaoTalk](https://img.shields.io/badge/OpenTalk-FCC624?style=flat-square&logo=Kakaotalk&logoColor=white)
+
+---
 ### 🧭 방향
 - 목표 : 그룹 스터디 진행시 프로젝트를 효과적으로 관리하기 위한 코드 저장소를 운영한다.
 
