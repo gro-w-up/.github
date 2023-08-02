@@ -9,9 +9,7 @@
 
 ---
 ### ✋🏻 참여 방법
-오픈카카오톡을 운영합니다.
-아래 링크로 참여해주세요! 😆  
-[![KakaoTalk](https://img.shields.io/badge/OpenTalk-FCC624?style=flat-square&logo=Kakaotalk&logoColor=white)](https://open.kakao.com/o/g8qe1nkf)
+[오픈톡방](https://open.kakao.com/o/g8qe1nkf) 😆  
 
 ---
 ### 🧭 방향
@@ -62,6 +60,7 @@
 
 ---
 ### 👨🏻‍💻스터디원👩🏻‍💻 
+- [코딩테스트]()
 <table>
   <tr>
     <td align="center">
