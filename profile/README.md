@@ -60,7 +60,7 @@
 
 ---
 ### 👨🏻‍💻스터디원👩🏻‍💻 
-- [코딩테스트]()
+- [코딩테스트](https://github.com/gro-w-up/crewcrew-coding-test-study)
 <table>
   <tr>
     <td align="center">
