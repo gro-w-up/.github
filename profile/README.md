@@ -12,7 +12,7 @@
 
 ### 👨🏻‍💻스터디원👩🏻‍💻 
 <details>
-<summary><a href="https://github.com/gro-w-up/crewcrew-coding-test-study">1기 코딩테스트</a></summary>
+<summary><a href="https://github.com/gro-w-up/crewcrew-coding-test-study">1기 코딩테스트 스터디원</a></summary>
 <div markdown="1">
  <table>
    <tr>
