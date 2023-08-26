@@ -50,7 +50,7 @@
 </details>
 
 <details>
-<summary><a href="https://github.com/gro-w-up/crewcrew-coding-test-study">2기 클란이키텍쳐 스터디원</a></summary>
+<summary><a href="https://github.com/gro-w-up/crewcrew-coding-test-study">2기 클린아키텍처 스터디원</a></summary>
 <div markdown="1">
  <table>
    <tr>
