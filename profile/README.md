@@ -58,7 +58,7 @@
        <a href="https://github.com/dev-wooyeon">
          <img src="https://avatars.githubusercontent.com/u/50124623?v=4" width="100px;" alt=""/>
          <br />
-         <sub>♟ 박은우(우연)</sub>
+         <sub>👑 박은우(우연)</sub>
        </a>
      </td>
      <td align="center">
@@ -80,6 +80,30 @@
          <img src="https://avatars.githubusercontent.com/u/47708586?v=4" width="100px;" alt=""/>
          <br />
          <sub>♟ 아토(doyk814)</sub>
+       </a>
+     </td>
+   </tr>
+ </table>
+</div>
+</details>
+
+<details>
+<summary><a href="https://github.com/gro-w-up/clean-architecture">3기 오브젝트 스터디원</a></summary>
+<div markdown="1">
+ <table>
+   <tr>
+     <td align="center">
+       <a href="https://github.com/dev-wooyeon">
+         <img src="https://avatars.githubusercontent.com/u/50124623?v=4" width="100px;" alt=""/>
+         <br />
+         <sub>👑 박은우(우연)</sub>
+       </a>
+     </td>
+     <td align="center">
+       <a href="https://github.com/nomoreFt">
+         <img src="https://avatars.githubusercontent.com/u/37995817?v=4" width="100px;" alt=""/>
+         <br />
+         <sub>♟ 김현우(phk9436)</sub>
        </a>
      </td>
    </tr>
