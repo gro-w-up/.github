@@ -88,7 +88,7 @@
 </details>
 
 <details>
-<summary><a href="https://github.com/gro-w-up/clean-architecture">3기 오브젝트 스터디원</a></summary>
+<summary><a href="https://github.com/gro-w-up/object">3기 오브젝트 스터디원</a></summary>
 <div markdown="1">
  <table>
    <tr>
