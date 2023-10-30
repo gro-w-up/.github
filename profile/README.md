@@ -65,7 +65,7 @@
        <a href="https://github.com/nomoreFt">
          <img src="https://avatars.githubusercontent.com/u/37995817?v=4" width="100px;" alt=""/>
          <br />
-         <sub>♟ 김현우(phk9436)</sub>
+         <sub>♟ 김현우(nomoreFt)</sub>
        </a>
      </td>
      <td align="center">
@@ -103,7 +103,7 @@
        <a href="https://github.com/nomoreFt">
          <img src="https://avatars.githubusercontent.com/u/37995817?v=4" width="100px;" alt=""/>
          <br />
-         <sub>♟ 김현우(phk9436)</sub>
+         <sub>♟ 김현우(nomoreFt)</sub>
        </a>
      </td>
    </tr>
