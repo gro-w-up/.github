@@ -96,14 +96,28 @@
        <a href="https://github.com/dev-wooyeon">
          <img src="https://avatars.githubusercontent.com/u/50124623?v=4" width="100px;" alt=""/>
          <br />
-         <sub>👑 박은우(우연)</sub>
+         <sub>♟ 박은우(우연)</sub>
        </a>
      </td>
      <td align="center">
        <a href="https://github.com/nomoreFt">
          <img src="https://avatars.githubusercontent.com/u/37995817?v=4" width="100px;" alt=""/>
          <br />
-         <sub>♟ 김현우(nomoreFt)</sub>
+         <sub>👑 김현우(nomoreFt)</sub>
+       </a>
+     </td>
+     <td align="center">
+       <a href="https://github.com/noveljava">
+         <img src="https://avatars.githubusercontent.com/u/1902015?v=4" width="100px;" alt=""/>
+         <br />
+         <sub>♟ 박건우(noveljava)</sub>
+       </a>
+     </td>
+     <td align="center">
+       <a href="https://github.com/gomudayya">
+         <img src="https://avatars.githubusercontent.com/u/129571789?v=4" width="100px;" alt=""/>
+         <br />
+         <sub>♟ 손용석(gomudayya)</sub>
        </a>
      </td>
    </tr>
