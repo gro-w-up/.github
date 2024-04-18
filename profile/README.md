@@ -12,7 +12,7 @@
 
 ### 👨🏻‍💻스터디원👩🏻‍💻 
 <details>
-<summary><a href="https://github.com/gro-w-up/crewcrew-coding-test-study">1기 코딩테스트 스터디원</a></summary>
+<summary><a href="https://github.com/gro-w-up/crewcrew-coding-test-study">[1기] 코딩테스트 스터디</a></summary>
 <div markdown="1">
  <table>
    <tr>
@@ -50,7 +50,7 @@
 </details>
 
 <details>
-<summary><a href="https://github.com/gro-w-up/clean-architecture">2기 클린아키텍처 스터디원</a></summary>
+<summary><a href="https://github.com/gro-w-up/clean-architecture">[2기] 클린아키텍처 스터디</a></summary>
 <div markdown="1">
  <table>
    <tr>
@@ -88,7 +88,7 @@
 </details>
 
 <details>
-<summary><a href="https://github.com/gro-w-up/object">3기 오브젝트 스터디원</a></summary>
+<summary><a href="https://github.com/gro-w-up/object">[3기] 오브젝트 스터디</a></summary>
 <div markdown="1">
  <table>
    <tr>
@@ -126,7 +126,7 @@
 </details>
 
 <details>
-<summary><a href="https://github.com/gro-w-up/playground">4기 NEXTSTEP Playground 스터디원</a></summary>
+<summary><a href="https://github.com/gro-w-up/playground">[4기] NEXTSTEP Playground 스터디</a></summary>
 <div markdown="1">
  <table>
    <tr>
@@ -142,6 +142,44 @@
          <img src="https://avatars.githubusercontent.com/u/37995817?v=4" width="100px;" alt=""/>
          <br />
          <sub>👑 김현우(nomoreFt)</sub>
+       </a>
+     </td>
+   </tr>
+ </table>
+</div>
+</details>
+
+<details>
+<summary><a href="https://github.com/gro-w-up/playground">[5기] 스프링부트 JPA의 모범사례 스터디</a></summary>
+<div markdown="1">
+ <table>
+   <tr>
+     <td align="center">
+       <a href="https://github.com/dev-wooyeon">
+         <img src="https://avatars.githubusercontent.com/u/50124623?v=4" width="100px;" alt=""/>
+         <br />
+         <sub>♟ 박은우(우연)</sub>
+       </a>
+     </td>
+     <td align="center">
+       <a href="https://github.com/nomoreFt">
+         <img src="https://avatars.githubusercontent.com/u/37995817?v=4" width="100px;" alt=""/>
+         <br />
+         <sub>👑 김현우(nomoreFt)</sub>
+       </a>
+     </td>
+     <td align="center">
+       <a href="https://github.com/SeolYoungKim">
+         <img src="https://avatars.githubusercontent.com/u/100072078?v=4" width="100px;" alt=""/>
+         <br />
+         <sub>♟ 딱구(SeolYoungKim)</sub>
+       </a>
+     </td>
+     <td align="center">
+       <a href="https://github.com/Jungbae99">
+         <img src="https://avatars.githubusercontent.com/u/116333199?v=4" width="100px;" alt=""/>
+         <br />
+         <sub>♟ 전정배(Jungbae99)</sub>
        </a>
      </td>
    </tr>
