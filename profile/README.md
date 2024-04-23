@@ -42,7 +42,7 @@
        <a href="https://github.com/Jungbae99">
          <img src="https://avatars.githubusercontent.com/u/116333199?v=4" width="100px;" alt=""/>
          <br />
-         <sub>♟ 전정배(Jungbae99)</sub>
+         <sub>♟ 전정배(Jungbae99)</sub>
        </a>
      </td>
    </tr>
