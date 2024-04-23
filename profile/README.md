@@ -8,8 +8,8 @@
 </div>
 
 ### ✋🏻 참여 방법
-[![kakaotalk](https://img.shields.io/badge/KakaoTalk-FFCD00?style=for-the-badge&logoColor=black&logo=KakaoTalk&link=https://open.kakao.com/o/g8qe1nkf)](https://open.kakao.com/o/g8qe1nkf)
- 
+[![kakaotalk](https://img.shields.io/badge/KakaoTalk-FFCD00?style=flat-square&logoColor=black&logo=KakaoTalk&link=https://open.kakao.com/o/g8qe1nkf)](https://open.kakao.com/o/g8qe1nkf)
+
 ### 👨🏻‍💻 스터디원 👩🏻‍💻  
 <!-- 5기 -->
 <details>
@@ -192,8 +192,5 @@
 </div>
 </details>
 
-
-
-
-
-
+### 방문수
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/gro-w-up)](https://hits.seeyoufarm.com)
