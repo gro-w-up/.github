@@ -45,7 +45,9 @@
          <sub>♟ 전정배(Jungbae99)</sub>
        </a>
      </td>
-     <td align="center">
+   </tr>
+   <tr>
+    <td align="center">
        <a href="https://github.com/noveljava">
          <img src="https://avatars.githubusercontent.com/u/129571789?v=4" width="100px;" alt=""/>
          <br />
@@ -63,7 +65,7 @@
        <a href="https://github.com/jjanguiyeontaehani">
          <img src="https://avatars.githubusercontent.com/u/66264988?v=4" width="100px;" alt=""/>
          <br />
-         <sub>♟ BadAss(jjanguiyeontaehani)</sub>
+         <sub>♟ BadAss(jjanguiyeontaehani)</sub>
        </a>
      </td>
    </tr>
