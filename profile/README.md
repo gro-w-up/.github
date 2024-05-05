@@ -13,7 +13,7 @@
 ### 👨🏻‍💻 스터디원 👩🏻‍💻  
 <!-- 6기 -->
 <details>
-<summary>📖 <a href="https://github.com/gro-w-up/jpa-best-practice">자바 알고리즘 인터뷰 with 코틀린</a></summary>
+<summary>📖 <a href="https://github.com/gro-w-up/algorithm">자바 알고리즘 인터뷰 with 코틀린</a></summary>
 <div markdown="1">
  <table>
    <tr>
