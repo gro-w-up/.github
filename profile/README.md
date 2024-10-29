@@ -11,6 +11,47 @@
 [![kakaotalk](https://img.shields.io/badge/KakaoTalk-FFCD00?style=flat-square&logoColor=black&logo=KakaoTalk&link=https://open.kakao.com/o/g8qe1nkf)](https://open.kakao.com/o/g8qe1nkf)
 
 ### 👨🏻‍💻 스터디원 👩🏻‍💻  
+<!-- 7기 -->
+<details>https://github.com/gro-w-up/virtual-interview-examples
+<summary>📖 <a href="https://github.com/gro-w-up/virtual-interview-examples">가상 면접 사례</a></summary>
+<div markdown="1">
+ <table>
+   <tr>
+     <td align="center">
+       <a href="https://github.com/dev-wooyeon">
+         <img src="https://avatars.githubusercontent.com/u/50124623?v=4" width="100px;" alt=""/>
+         <br />
+         <sub>♟ 박은우(우연)</sub>
+       </a>
+     </td>
+     <td align="center">
+       <a href="https://github.com/nomoreFt">
+         <img src="https://avatars.githubusercontent.com/u/37995817?v=4" width="100px;" alt=""/>
+         <br />
+         <sub>👑 김현우(nomoreFt)</sub>
+       </a>
+     </td>
+     <td align="center">
+       <a href="https://github.com/Jungbae99">
+         <img src="https://avatars.githubusercontent.com/u/116333199?v=4" width="100px;" alt=""/>
+         <br />
+         <sub>♟ 전정배(Jungbae99)</sub>
+       </a>
+     </td>
+   </tr>
+   <tr>
+    <td align="center">
+       <a href="https://github.com/noveljava">
+         <img src="https://avatars.githubusercontent.com/u/129571789?v=4" width="100px;" alt=""/>
+         <br />
+         <sub>♟ 손용석(noveljava)</sub>
+       </a>
+     </td>
+   </tr>
+ </table>
+</div>
+</details>
+
 <!-- 6기 -->
 <details>
 <summary>📖 <a href="https://github.com/gro-w-up/algorithm">자바 알고리즘 인터뷰 with 코틀린</a></summary>
