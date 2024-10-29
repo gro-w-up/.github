@@ -12,7 +12,7 @@
 
 ### 👨🏻‍💻 스터디원 👩🏻‍💻  
 <!-- 7기 -->
-<details>https://github.com/gro-w-up/virtual-interview-examples
+<details>
 <summary>📖 <a href="https://github.com/gro-w-up/virtual-interview-examples">가상 면접 사례</a></summary>
 <div markdown="1">
  <table>
@@ -38,8 +38,6 @@
          <sub>♟ 전정배(Jungbae99)</sub>
        </a>
      </td>
-   </tr>
-   <tr>
     <td align="center">
        <a href="https://github.com/noveljava">
          <img src="https://avatars.githubusercontent.com/u/129571789?v=4" width="100px;" alt=""/>
