@@ -114,7 +114,7 @@
 
 <!-- 5기 -->
 <details>
-<summary>📖 <a href="https://github.com/gro-w-up/jpa-best-practice">스프링부트 JPA의 모범사례</a></summary>
+<summary>📘 <a href="https://github.com/gro-w-up/jpa-best-practice">스프링부트 JPA의 모범사례</a></summary>
 <div markdown="1">
  <table>
    <tr>
