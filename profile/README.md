@@ -45,6 +45,13 @@
          <sub>♟ 손용석(noveljava)</sub>
        </a>
      </td>
+     <td align="center">
+       <a href="https://github.com/Slowth-KIM">
+         <img src="https://avatars.githubusercontent.com/u/45562511?v=4" width="100px;" alt=""/>
+         <br />
+         <sub>♟ 김도희(Slowth-KIM)</sub>
+       </a>
+     </td>
    </tr>
  </table>
 </div>
