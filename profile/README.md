@@ -9,6 +9,7 @@
 
 ### ✋🏻 참여 방법
 [![kakaotalk](https://img.shields.io/badge/KakaoTalk-FFCD00?style=flat-square&logoColor=black&logo=KakaoTalk&link=https://open.kakao.com/o/g8qe1nkf)](https://open.kakao.com/o/g8qe1nkf)
+참여코드는 Pain
 
 ### 👨🏻‍💻 스터디원 👩🏻‍💻  
 <!-- 7기 -->
